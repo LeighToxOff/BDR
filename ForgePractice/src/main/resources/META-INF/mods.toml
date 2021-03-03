@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+
+[[mods]]
+modId="bdrmod"
+version="1.0"
+displayName="BDR MOD"
+credits="Thanks for ... me!"
+authors="LeighTox for making the mod like a boss !"
+description='''
+Hello
+
+How are you ?
+
+Yes cool
+
+I don't care
+'''
+
+[[dependencies.bdrmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35,)"
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.bdrmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"

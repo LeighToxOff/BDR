@@ -1,0 +1,5 @@
+{ 
+	"variants":{ 
+		"": { "model": "bdrmod:block/example_block"}
+	}
+}
